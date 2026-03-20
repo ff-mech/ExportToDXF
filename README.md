@@ -254,10 +254,7 @@ The following changes are safe starting points if you need to customize behavior
 
 ## Changelog
 
-| Version | Notes |
-|---|---|
-| Revision E | Initial release. Image saving (check/failed preview) removed from earlier internal revision. All export, validation, and logging logic preserved. |
-
+Initial Release
 ---
 
 ## License
